@@ -26,6 +26,10 @@ body{
     height: auto;
 }
 
+.btn{
+    width: 20%;
+}
+
 .search input{
     border: 0;
     outline: 0;
@@ -33,6 +37,7 @@ body{
     color: #555;
     padding: 10px 25px;
     height: 60px;
+    width: 80%;
     border-radius: 30px;
     flex: 1;
     margin-right: 16px ;
